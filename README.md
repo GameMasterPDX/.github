@@ -1,2 +1,2 @@
-# .github
-profile page
+# about me
+i like programming and vidya games
